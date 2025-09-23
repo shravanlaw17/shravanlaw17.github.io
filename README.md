@@ -12,3 +12,11 @@ TAX GURU is an open-source AI chatbot for Indian GST, Income Tax, budget plannin
 
 ## 🏗️ Quick Start
 
+
+## 🛠️ Stack
+- Node.js/Express (backend), HTML5 + CSS (frontend)
+- `.env` settings for keys
+- Ready for OpenAI/LLM integration
+
+## ✨ Extensible
+Add OpenAI for advanced chat, or swap backend with Python (see prior code answers). MIT Licensed.
